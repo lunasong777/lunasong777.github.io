@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+ theme                   : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" #default, "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"mint", default, "air", "aqua", "contrast", "dark", "neon", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -23,8 +23,8 @@ name                     : "luna"
 description              : "html로 코딩한다는 말에 진지 빠는 코딩 신생아의 개발블로그"
 url                      : "https://lunasong777.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. 
+repository               : "lunasong/lunasong777.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/88x88.png" # path of fallback teaser image, e.g. 
 logo                     : "/assets/images/88x88.png" # 이미지 자동줄여짐. 메인 GNB 상단 로고 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
