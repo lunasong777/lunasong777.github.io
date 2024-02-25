@@ -11,9 +11,9 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
-  # text
-  - title : sidebar Test
-  children: 
-    title : "child1"
-    title : "child2"
+# docs:
+#   # text
+#   - title : sidebar Test
+#   children: 
+#     title : "child1"
+#     title : "child2"
