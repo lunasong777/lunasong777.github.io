@@ -10,10 +10,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-# docs:
-#   # text
-#   - title : sidebar Test
-#   children: 
-#     title : "child1"
-#     title : "child2"
