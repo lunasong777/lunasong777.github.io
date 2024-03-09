@@ -1,11 +1,9 @@
 # main links
 main:
   - title: "blog"
-    url: https://lunasong777.github.io/blog/
+    url: /blog/
   - title: "About"
     url: https://lunasong777.github.io/about/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 
 docs:
@@ -18,9 +16,9 @@ docs:
         url: /git/
         category: "git"
       - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+        url: #
+      - title: "Quick-Start Guide"
+        url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
   - title: 💻개발개발
     children:
