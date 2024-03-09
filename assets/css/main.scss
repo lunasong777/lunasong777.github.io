@@ -9,3 +9,9 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 @import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap"); //산돌고딕임, 2순위나눔스퀘어라운드
+
+@font-face {
+  font-family: 'BMJUA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
