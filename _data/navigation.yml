@@ -1,12 +1,42 @@
 # main links
 main:
+  - title: "About"
+    url: https://lunasong777.github.io/about/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+docs:
+  - title: 💻Git / Github
+    children:
+      - title: "Git 블로그 만들기"
+        url: /blog/
+        category: "blog"
+      - title: "Git 사용법"
+        url: /git/
+        category: "git"
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
+  - title: 💻개발개발
+    children:
+      - title: "JAVA"
+        url: /java/
+        category: "java"
+#      - title: "Git 사용법"
+#        url: /git/
+#        category: "git"
+#      - title: "Installation"
+#        url: /docs/installation/
+#      - title: "Upgrading"
+#        url: /docs/upgrading/
+
+
