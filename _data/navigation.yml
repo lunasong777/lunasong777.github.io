@@ -25,9 +25,9 @@ docs:
       - title: "JAVA"
         url: /java/
         category: "java"
-#      - title: "Git 사용법"
-#        url: /git/
-#        category: "git"
+      - title: "REACT"
+        url: /react/
+        category: "react"
 #      - title: "Installation"
 #        url: /docs/installation/
 #      - title: "Upgrading"
