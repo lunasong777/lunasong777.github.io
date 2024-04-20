@@ -22,14 +22,15 @@ docs:
 
   - title: 💻개발개발
     children:
-     - title: "Java Script"
-       url: /javascript/
+      - title: "Java Script"
+        url: /javascript/
+        category: "javascript"
       - title: "JAVA"
         url: /java/
         category: "java"
       - title: "REACT"
         url: /react/
-        category: "react"
+        category: "React"
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
 
