@@ -13,7 +13,7 @@ sidebar:
 
 
 
-## ✅ 블로그 제작
+## ✅ 자바스크립트 복기
 
 {% assign posts = site.categories.javascript %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
