@@ -1,0 +1,58 @@
+---
+title : " 자바스크립트"
+excerpt : 깃허브를 사용하기 위한 사전 준비 단계
+sidebar:
+  nav: "docs"
+categories:
+  - blog
+tags:
+  - blog
+
+toc: true
+toc_sticky: true
+
+date : 2024-02-24
+last date : last_modified_at
+---
+
+## ✅ Git hub 계정등록
+1. 새로운 **Repository**를 만든다.
+2. **Repository 이름**을 설정해준다.
+
+{: .notice--warning}
+  ❗반드시 **username.github.io** 이런식으로 만들어 주세요.<br>
+  공식문서에 따르면 repository(저장소)와 username이 일치하지 않으면 작동하지 않을 수 있다고 안내 되어있습니다. 
+
+저는 lunasong777.github.io로 만들었습니다. 
+
+{% include figure image_path="/assets/images/blog/new_repository.jpg" alt="this is a placeholder image" %}
+
+
+## ✅ Git Bash 설치
+**내 컴퓨터**에서 만든 파일을 **Git 서버**에 '명령 프롬프트(=cmd)'를 통하여 업데이트/다운로드하기 위해서는 설치가 필요합니다.<br> 
+**Git Bash**는 window와 mac의 운영체제가 달라 명령어가 다른점을 극복하기 위해 만든 명령 프롬프트 입니다.
+
+{: .notice}
+ 참고로 서버에 올리고 내려받고를 업데이트/다운로드라고 하지만 개발자는 Push/pull 라는 단어를 사용합니다. 
+
+> 다운로드 주소 : https://git-scm.com/downloads
+
+홈페이지 들어가서 for Window를 다운로드 받아 설치합니다.<br>
+{% include figure image_path="/assets/images/blog/git_bash.jpg" alt="this is a placeholder image" %}
+
+
+
+## ✅ Git Repository를 내 컴퓨터 폴더에 Clone하기
+1. Git site에서 녹색 code 버튼을 눌러 HTTPS 주소를 복사합니다. 
+![clone](/assets/images/blog/clone1.jpg)
+
+2. 복제하고 싶은 폴더를 생성 한 후, 마우스 오른쪽 버튼을 눌러 Git bash를 엽니다. 
+![clone](/assets/images/blog/clone2.jpg)
+
+3. Git 클론하기
+```bash
+$ git clone "리포지스토리 복사한 주소"
+```
+
+4. 확인해보기
+폴더에 git에 있던 README.md 파일이 추가되어 있으면 연결이 완료 된 것입니다!
