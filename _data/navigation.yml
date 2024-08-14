@@ -34,7 +34,7 @@ docs:
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
 
-  - title: 📒 어려운 프로그래밍 용어 정리
+  - title: 🧾 어려운 프로그래밍 용어 정리
     children:
       - title: "코드 용어"
         url: /terminology/
