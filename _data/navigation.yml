@@ -28,9 +28,9 @@ docs:
       - title: "JAVA"
         url: /java/
         category: "java"
-      - title: "REACT"
+      - title: "React"
         url: /react/
-        category: "React"
+        category: "react"
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
 
