@@ -1,8 +1,8 @@
 ---
-title: "Github 블로그 제작"
+title: "Git/ Github 관련 내용"
 
 layout: archive
-permalink: /git/
+permalink: /github/
 author_profile: true
 sidebar:
   nav: "docs"
@@ -12,6 +12,6 @@ sidebar:
 
 홍익인간의 정신으로
 
-{% assign posts = site.categories.blog %}
+{% assign posts = site.categories.github %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
 

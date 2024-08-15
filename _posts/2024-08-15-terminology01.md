@@ -5,8 +5,7 @@ sidebar:
   nav: "docs"
 categories:
   - terminology
-tags:
-  - terminology
+
 
 toc: true
 toc_sticky: true
