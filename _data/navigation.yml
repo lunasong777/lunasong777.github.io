@@ -38,6 +38,12 @@ docs:
       - title: "코드 용어"
         url: /terminology/
         category: "terminology"
+      - title: "자료구조"
+        url: /data/
+        category: "Data Structure"
+      - title: "알고리즘"
+        url: /algorithm/
+        category: "Algorithm"
 
 
 
