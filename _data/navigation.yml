@@ -44,6 +44,9 @@ docs:
       - title: "알고리즘"
         url: /algorithm/
         category: "Algorithm"
+      - title: "코팅테스트"
+        url: /codingtest/
+        category: "codingtest"
 
 
 
