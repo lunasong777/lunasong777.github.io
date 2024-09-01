@@ -1,5 +1,5 @@
 ---
-title: "java도 어려웡"
+title: "Github 블로그 제작"
 
 layout: archive
 permalink: /java/
